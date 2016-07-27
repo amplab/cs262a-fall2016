@@ -208,7 +208,7 @@ td {
 
 /* Wrapper */
 .wrapper {
-  width:960px;
+  width:2000px;
 }
 
 
@@ -328,7 +328,7 @@ section {
 /* Footer */
 
 footer {
-  width:250px;
+  width:170px;
   float:left;
   position:fixed;
   bottom:10px;
